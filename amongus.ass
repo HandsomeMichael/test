@@ -1,0 +1,5 @@
+ass => system
+
+declarable(Method) variable = ass.getMethod(print)
+
+ass.emit[variable]{'hello world'}
