@@ -1,14 +1,11 @@
 using System;
-namespace test{
+namespace test
+{
     public class Main {
         public static int fartable;
         public void OnFart() {
             fartable = 1;
         }
-    }
-    interface IFartable
-    {
-        void OnFart();
     }
 }
 
