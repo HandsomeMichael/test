@@ -1,1 +1,1 @@
-using System;namespace test{public class Main {}}
+using amonugFunction;using System;namespace test{public class Main {}}
